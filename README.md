@@ -1,5 +1,5 @@
 # 2022-ICT-Project
-Capstone-design (2021-1,2)
+
    
 
 <img src="Information/2022-ICT-poster.jpg" width="60%" title="poster" alt="poster"></img>
